@@ -216,7 +216,7 @@ O projeto é desenvolvido pelos seguintes integrantes:
 - [🔒 <ins>Caixa</ins> - Desenvolvimento da Caixa](https://github.com/elisfcampos/INNOWAVE/tree/bbede4ba1a8807661da3cad643a11450b9246cd2/Colabs/Caixa) 
 - [🎮 <ins>Jogo Eletrônico</ins> - Desenvolvimento da Jogo Eletrônico](https://github.com/elisfcampos/INNOWAVE/tree/bbede4ba1a8807661da3cad643a11450b9246cd2/Colabs/JEletr) 
 - [📱 <ins>Jogo Digital</ins> - Desenvolvimento da Jogo Digital](https://github.com/elisfcampos/INNOWAVE/tree/bbede4ba1a8807661da3cad643a11450b9246cd2/Colabs/JDig)
-- [⚙️ <ins>Jogo Mecânico</ins> - Desenvolvimento da Jogo Mecânico](https://github.com/elisfcampos/INNOWAVE/tree/bbede4ba1a8807661da3cad643a11450b9246cd2/Colabs/JMec)
+- [⚙️ <ins>Jogo Mecânico</ins> - Desenvolvimento da Jogo Mecânico](https://github.com/elisfcampos/INNOWAVE/tree/87f00ffc701e04ccc5ed5a6c54645b3702300de9/Colabs/JMec)
 
 
 
