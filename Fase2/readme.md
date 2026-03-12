@@ -79,7 +79,12 @@ O projeto é desenvolvido pelos seguintes integrantes:
 
 ## 🔗 Links Úteis
 
-- 🔗 Repositório no GitHub para esta fase: [INNOWAVE - Innovation Wave - ](https://github.com/elisfcampos/INNOWAVE/tree/c71e327783b9bf4a37cb2ff7b46203fdc5506ba6/Fase2)
+- 🔗 Repositório no GitHub para esta fase:
+```
+https://github.com/elisfcampos/INNOWAVE/tree/c71e327783b9bf4a37cb2ff7b46203fdc5506ba6/Fase2
+```
+ 
+ [INNOWAVE - Innovation Wave - ](https://github.com/elisfcampos/INNOWAVE/tree/c71e327783b9bf4a37cb2ff7b46203fdc5506ba6/Fase2)
 - 🎥 Demonstração do Projeto: (*Adicionaremos o link para vídeos, se houver*)
 
 ## 📞 Contato
