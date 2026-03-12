@@ -1,6 +1,6 @@
 # INNOWAVE - Innovation Wave
 
-![INNOWAVE Logo](https://github.com/elisfcampos/INNOWAVE/blob/ee513edf1ae577f44c5c01d51b1e3ac483c7ed33/Imgs/innowaveReduzido.png) <!-- Substitua pelo caminho real da logo, se houver -->
+![INNOWAVE Logo](https://github.com/elisfcampos/INNOWAVE/blob/ee513edf1ae577f44c5c01d51b1e3ac483c7ed33/Imgs/innowaveReduzido.png)
 
 
 ## 📌 Introdução
