@@ -12,7 +12,7 @@ Em um teste inicial, usando um celular e duas Esp32, uma chamarei de Esp32A e ou
 Usei o seguinte código:
 
 - Para Esp32A - Este código utiliza Bluetooth Serial (mais simples para testes rápidos) e ESP-NOW. Você precisará do MAC Address do ESP32 B.
-
+```
 #include <BluetoothSerial.h>
 #include <esp_now.h>
 #include <WiFi.h>
@@ -46,9 +46,10 @@ Serial.println("Comando unlock enviado para o ESP32 B");
 }
 }
 }
+```
 
 - Para Esp32B -Este código apenas aguarda a mensagem e verifica se o conteúdo é "unlock".
-
+```
 #include <esp_now.h>
 #include <WiFi.h>
 // Pino do LED interno (GPIO 2 é o padrão para a maioria das placas)
@@ -87,8 +88,7 @@ esp_now_register_recv_cb(OnDataRecv);
 void loop() {
 // O loop fica livre para outras tarefas, pois o ESP-NOW funciona por interrupção
 }
-
-
+```
 
 Próximos Passos:
 - MAC Address: Use um código de "Scanner" no ESP32 B para descobrir o
