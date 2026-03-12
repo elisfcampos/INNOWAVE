@@ -81,7 +81,7 @@ O projeto é desenvolvido pelos seguintes integrantes:
 
 - 🔗 Repositório no GitHub para esta fase:
 ```
-https://github.com/elisfcampos/INNOWAVE/tree/dcc2519ada164e2cb0df7b374f1e366420b92978/Fase2
+https://github.com/elisfcampos/INNOWAVE/tree/6fa31ecc1234d0b9d6832eb72f15e33efb731e36/Fase2
 ```
 - 🎥 Demonstração do Projeto: (*Adicionaremos o link para vídeos, se houver*)
 
