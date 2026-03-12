@@ -96,6 +96,18 @@ endereço físico dele antes de carregar o código no Gateway.
 - App Celular: Você pode usar aplicativos como o Serial Bluetooth Terminal
 (Android) para enviar o texto "WIN" e testar a lógica imediatamente.
 
+### Conclusão:
+A ESP32A, Não apareceu no celular para conectar.
+O Mesmo aconteceu usando esse formato que inclui as duas biblioteca trabalhando em um mesmo código.
+Não funcionou.!!!
+
+```
+#include <BluetoothSerial.h>
+#include <esp_now.h>
+#include <WiFi.h>
+BluetoothSerial SerialBT
+```
+
 ### 🗺️ Referências
 https://randomnerdtutorials.com/get-change-esp32-esp8266-mac-address-arduino/#esp32-get-mac-address
 
