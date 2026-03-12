@@ -2,7 +2,7 @@
 
 ![INNOWAVE Logo](https://github.com/elisfcampos/INNOWAVE/blob/ee513edf1ae577f44c5c01d51b1e3ac483c7ed33/Imgs/innowaveReduzido.png) <!-- Substitua pelo caminho real da logo, se houver -->
 
-**Deseja saber sobre a Fase 2 deste projeto** - 🔗 [Clique Aqui](https://github.com/elisfcampos/INNOWAVE/tree/1f09775a6d5f7f8d7df0af95a354bd98fa39a5e2/Fase2)
+**Deseja saber sobre a Fase 2 deste projeto** - 🔗 [Clique Aqui](https://github.com/elisfcampos/INNOWAVE/tree/dcc2519ada164e2cb0df7b374f1e366420b92978/Fase2)
 
 ## 📌 Introdução
 
