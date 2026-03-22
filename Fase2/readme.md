@@ -23,24 +23,10 @@ A equipe está em fase de aprimoramento de um sistema complexo, dividido em dive
 
 A construção desse Sistema Complexo será em etapas, com entregas distribuídas ao longo desse semestre. As entregas previstas para o semestre atual estarão detalhadas nos cronogramas específicos de cada subsistema, conforme ilustrado abaixo.
 
-## Cronograma Macro - Entregas:
+## 
 
-### Entrega 01 - 12/03/2026.
-![Cronograma Sprint 01](https://github.com/elisfcampos/INNOWAVE/blob/c71e327783b9bf4a37cb2ff7b46203fdc5506ba6/Fase2/imgs/Sp01_Crono.png)
-
-
-### Entrega 02 - Entre 06 a 10/04/2026.
-
-
-### Entrega 03 - Entre 04 e 08/05/2026.
-
-
-### Entrega 04 - Entre 28/05 e 03/06/2026.
-
-
-
-### Feira de Soluções: 11/06/2026 - Apresentação do Jogo Físico Completo.
-
+![Crono01A](https://github.com/elisfcampos/INNOWAVE/blob/293442384cae775a91216b76cb951469ae83256a/Fase2/imgs/Crono01A.png)
+![Crono01A](https://github.com/elisfcampos/INNOWAVE/blob/293442384cae775a91216b76cb951469ae83256a/Fase2/imgs/Crono01B.png)
  
 
 ## 👥 Equipe INNOWAVE
